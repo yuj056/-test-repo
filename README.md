@@ -1,2 +1,2 @@
 # -test-repo
-I am Yuanjie, a 3rd year PhD student in UCSD.
+I am Yuanjie, a 2nd year PhD student in UCSD.
